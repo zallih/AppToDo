@@ -14,7 +14,7 @@ import { HomeModule } from './modules/home/home.module';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule,
+    AppRoutingModule
     HomeModule,
     
   ],
